@@ -14,10 +14,11 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * **Educación:** Estudiante de Ingeniería en Computación en ESPOL
 
 ## Proyectos :grin:
-* **Aplicación para control de alimentadores automáticos para camarones**: Desarrollada en Flutter, esta aplicación permite controlar la descarga de comida y obtener información relevante sobre el proceso. (Privado trabajo)
-* **Aplicación de gestión de pedidos y entrega de paquetes (aduana, transporte, aéreo)**: También desarrollada en Flutter, esta app facilita el seguimiento y control de pedidos en el ámbito aduanero. (Privado trabajo)
+* **Aplicación para control de alimentadores automáticos para camarones**: FrontEnd en Flutter, esta aplicación permite controlar la descarga de comida y obtener información relevante sobre el proceso. (Privado trabajo)
+* **Aplicación de gestión de pedidos y entrega de paquetes (aduana, transporte, aéreo)**: FrontEnd en Flutter, esta app facilita el seguimiento y control de pedidos en el ámbito aduanero. (Privado trabajo)
+* **Aplicación para crear rutas de viajes por el Ecuador**: FrontEnd Flutter, BackEnd Javascript, esta app permite al usuario crear e interactuar con rutas de mapas mostrando la ubicación de estas y del usuario.
 * **Lista de proyectos:**
-* 
+* [Repositorio PathFinder_Back](https://github.com/gjareval/PathFinder_Back)
 
 ## Intereses :smirk:
 * **Desarrollo de aplicaciones web y móvil**: Me apasiona crear soluciones tecnológicas que mejoren la experiencia del usuario.

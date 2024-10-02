@@ -19,6 +19,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * **Aplicación para crear rutas de viajes por el Ecuador**: FrontEnd Flutter, BackEnd Javascript, esta app permite al usuario crear e interactuar con rutas de mapas mostrando la ubicación de estas y del usuario.
 * **Lista de proyectos:**
 * [Repositorio PathFinder_Back](https://github.com/gjareval/PathFinder_Back)
+* [Repositorio PathFinder_Front](https://github.com/bmitegui/proyectoLP)
 
 ## Intereses :smirk:
 * **Desarrollo de aplicaciones web y móvil**: Me apasiona crear soluciones tecnológicas que mejoren la experiencia del usuario.

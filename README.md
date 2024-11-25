@@ -4,7 +4,7 @@
 Soy una persona apasionada por la tecnología y el desarrollo de software. Como estudiante de Ingeniería en Computación en ESPOL y desarrollador de aplicaciones web y móviles, disfruto resolviendo problemas reales a través de soluciones innovadoras y eficientes. Me encanta aprender y experimentar con nuevas tecnologías, así como colaborar en proyectos que tengan un impacto positivo.
 Fuera del ámbito tecnológico, encuentro inspiración en la música y disfruto desconectándome del mundo digital a través de los videojuegos de estrategia, donde puedo aplicar mi pasión por el análisis y la planificación. Siempre estoy en busca de nuevos desafíos que impulsen mi crecimiento profesional y personal.
 
-![Yo]([https://ruta-del-gif.com/archivo.gif](https://i.pinimg.com/originals/8b/19/fe/8b19feb0d9eec43509283e74917a7fe9.gif))
+![Yo](https://i.pinimg.com/originals/8b/19/fe/8b19feb0d9eec43509283e74917a7fe9.gif)
 
 ## Contenido
 * [Información personal](#información-personal)
@@ -17,7 +17,7 @@ Fuera del ámbito tecnológico, encuentro inspiración en la música y disfruto 
 * **Lugar de residencia:** Guayaquil, Ecuador
 * **Educación:** Estudiante de Ingeniería en Computación en ESPOL
 
-## 📚 Proyectos :grin:
+## 📚 Proyectos
 * **Aplicación para control de alimentadores automáticos para camarones**: FrontEnd en Flutter, esta aplicación permite controlar la descarga de comida y obtener información relevante sobre el proceso. (Privado trabajo)
 * **Aplicación de gestión de pedidos y entrega de paquetes (aduana, transporte, aéreo)**: FrontEnd en Flutter, esta app facilita el seguimiento y control de pedidos en el ámbito aduanero. (Privado trabajo)
 * **Aplicación para crear rutas de viajes por el Ecuador**: FrontEnd Flutter, BackEnd Javascript, esta app permite al usuario crear e interactuar con rutas de mapas mostrando la ubicación de estas y del usuario.
